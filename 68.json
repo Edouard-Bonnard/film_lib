@@ -1,0 +1,31 @@
+// 68 400TX XA 30/09/2020
+// changement de boîtier après vue 15
+{
+    "index": "68",
+    "emulsion": "400TX",
+    "startDate": "30/09/2020",
+    "camera": "olympus XA+Nikon F5",
+    "subject": "lyon",
+
+    "roll": {
+        "30/09": "-4",
+        "10/10": "-7",
+        "11/10": "-15",
+        "": "",
+        "12/10": "17-20",
+        "": "",
+        "": "",
+        "": ""
+    }
+
+    "camera": {
+        "Olympus XA": "-15", //0 to 15 taken on XA
+        "Nikon F5": "17-" //17 to . taken on F5
+        "": "",
+        "": "",
+        "": "",
+
+    }
+        
+
+}
